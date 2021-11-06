@@ -16,5 +16,5 @@
 
 
 
-# Other ( more phylosophycal ) notions:
+# Other ( more philosophical ) notions:
 - God Of Gaps: is a theological perspective in which gaps in scientific knowledge are taken to be evidence or proof of God's existence.

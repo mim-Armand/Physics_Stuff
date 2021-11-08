@@ -9,6 +9,9 @@
 - **Bell's theorem**: Bell's theorem proves that quantum physics is incompatible with local hidden-variable theories. It was introduced by physicist John Stewart Bell in a 1964 paper titled "On the Einstein Podolsky Rosen Paradox", referring to a 1935 thought experiment that Albert Einstein, Boris Podolsky and Nathan Rosen used in order to argue that quantum physics is an "incomplete" theory.
 - **Brewster's angle**: Brewster's angle is an angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. When unpolarized light is incident at this angle, the light that is reflected from the surface is therefore perfectly polarized.
 - **Stern–Gerlach experiment**: experiment demonstrated that the spatial orientation of angular momentum is quantized. Thus an atomic-scale system was shown to have intrinsically quantum properties. In the original experiment, silver atoms were sent through a spatially varying magnetic field, which deflected them before they struck a detector screen, such as a glass slide.
+- **Squeezed Vacuum**: Quantum squeezed states are a consequence of uncertainty relations; a state is squeezed when the noise in one variable is reduced below the symmetric limit at the expense of the increased noise in the conjugate variable such that the Heisenberg uncertainty relation is not violated.
+- **parametric down-conversion**: Spontaneous parametric down-conversion (also known as SPDC, parametric fluorescence or parametric scattering) is a nonlinear instant optical process that converts one photon of higher energy (namely, a pump photon), into a pair of photons (namely, a signal photon, and an idler photon) of lower energy.
+- **Two-photon emission**: It's a better, mor efficient alternative to the BBO crystal mechanism of parametric down-conversion. >> [Observation of two-photon emission from semiconductors](https://www.nature.com/articles/nphoton.2008.28)
 
 
 
@@ -18,3 +21,10 @@
 
 # Other ( more philosophical ) notions:
 - God Of Gaps: is a theological perspective in which gaps in scientific knowledge are taken to be evidence or proof of God's existence.
+- Noblesse oblige: Based on Schrödinger it means you should not talk about topics that you are not an expert in ( not sure if that's what it means tho! and I'm not an expert in it!! )
+- 
+
+
+
+
+

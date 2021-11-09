@@ -12,6 +12,7 @@
 - **Squeezed Vacuum**: Quantum squeezed states are a consequence of uncertainty relations; a state is squeezed when the noise in one variable is reduced below the symmetric limit at the expense of the increased noise in the conjugate variable such that the Heisenberg uncertainty relation is not violated.
 - **parametric down-conversion**: Spontaneous parametric down-conversion (also known as SPDC, parametric fluorescence or parametric scattering) is a nonlinear instant optical process that converts one photon of higher energy (namely, a pump photon), into a pair of photons (namely, a signal photon, and an idler photon) of lower energy.
 - **Two-photon emission**: It's a better, mor efficient alternative to the BBO crystal mechanism of parametric down-conversion. >> [Observation of two-photon emission from semiconductors](https://www.nature.com/articles/nphoton.2008.28)
+- **Positron Catalysed Nuclear Fusion**: decay of a radio-active material produces pairs of positron-electrons, which using a magnetic field and an array of coolers ( to reduce the speed of hot postrons ) postrons will be redirected to a reactor to catalyze the mechanism, PostronDynamics's working on this as a means of propulsion.
 
 
 

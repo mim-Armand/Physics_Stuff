@@ -13,6 +13,7 @@
 - **parametric down-conversion**: Spontaneous parametric down-conversion (also known as SPDC, parametric fluorescence or parametric scattering) is a nonlinear instant optical process that converts one photon of higher energy (namely, a pump photon), into a pair of photons (namely, a signal photon, and an idler photon) of lower energy.
 - **Two-photon emission**: It's a better, mor efficient alternative to the BBO crystal mechanism of parametric down-conversion. >> [Observation of two-photon emission from semiconductors](https://www.nature.com/articles/nphoton.2008.28)
 - **Positron Catalysed Nuclear Fusion**: decay of a radio-active material produces pairs of positron-electrons, which using a magnetic field and an array of coolers ( to reduce the speed of hot postrons ) postrons will be redirected to a reactor to catalyze the mechanism, PostronDynamics's working on this as a means of propulsion.
+- **The Chinese Room Argument**: It argues agains Alan Turing prediction where if a computer can convince a human that it's a human. it says that if you put a person who doesn't understand Chinese in a room with an instruction book / dictionary, then he receives a message in Chinese and responds using instructions, that doesn't make him Chinese or undrestand it.
 
 
 

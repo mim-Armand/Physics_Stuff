@@ -15,6 +15,7 @@
 - **Positron Catalysed Nuclear Fusion**: decay of a radio-active material produces pairs of positron-electrons, which using a magnetic field and an array of coolers ( to reduce the speed of hot postrons ) postrons will be redirected to a reactor to catalyze the mechanism, PostronDynamics's working on this as a means of propulsion.
 - **The Chinese Room Argument**: It argues agains Alan Turing prediction where if a computer can convince a human that it's a human. it says that if you put a person who doesn't understand Chinese in a room with an instruction book / dictionary, then he receives a message in Chinese and responds using instructions, that doesn't make him Chinese or undrestand it.
 - **Cherenkov radiation**: Cherenkov radiation is electromagnetic radiation emitted when a charged particle passes through a dielectric medium at a speed greater than the group velocity of light in that medium. A classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor. but it's also used to detect Neutrinos in Super Kamiokande observation for instance.
+- **MOND**: (Modified Newtonian dynamics) Modified Newtonian dynamics is a hypothesis that proposes a modification of Newton's law of universal gravitation to account for observed properties of galaxies.
 
 
 

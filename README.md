@@ -16,6 +16,10 @@
 - **The Chinese Room Argument**: It argues agains Alan Turing prediction where if a computer can convince a human that it's a human. it says that if you put a person who doesn't understand Chinese in a room with an instruction book / dictionary, then he receives a message in Chinese and responds using instructions, that doesn't make him Chinese or undrestand it.
 - **Cherenkov radiation**: Cherenkov radiation is electromagnetic radiation emitted when a charged particle passes through a dielectric medium at a speed greater than the group velocity of light in that medium. A classic example of Cherenkov radiation is the characteristic blue glow of an underwater nuclear reactor. but it's also used to detect Neutrinos in Super Kamiokande observation for instance.
 - **MOND**: (Modified Newtonian dynamics) Modified Newtonian dynamics is a hypothesis that proposes a modification of Newton's law of universal gravitation to account for observed properties of galaxies.
+- **Chirp cooling**: (or **Laser-Cooling** or **Zeeman Cooling**) is the method of using the photon momentums to slow atoms down ( cooling them ) from an atom beam with an opposite direction to near absolute zero in a region of space.
+- **Doppler cooling**: in this method we essentially use the doppler effect and a bunch of lasers from different directions with an off-resonant lower frequency than the atoms to trap them in-place and taking the motion (heat) out of them.
+- **Zeeman effect**: The Zeeman effect is the effect of splitting of a spectral line into several components in the presence of a static magnetic field. It is named after the Dutch physicist Pieter Zeeman, who discovered it in 1896 and received a Nobel prize for this discovery.
+- **Stark effect**: The Stark effect is the shifting and splitting of spectral lines of atoms and molecules due to the presence of an external electric field. It is the electric-field analogue of the Zeeman effect.
 
 
 

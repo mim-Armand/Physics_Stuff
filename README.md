@@ -42,3 +42,22 @@
 
 
 
+
+# Random notes:
+
+## Components of consciousness:
+- sensing the environment
+- awareness of environment (food and threats).
+- perception ( like vision )
+- desire
+- Remembering
+- Object permanence ( Capacity of being aware of something in its absence )
+- self-awareness
+- Sense of time.
+- Imagination, visualization of the future.
+- Reading the mind of others ( Undereestanding others and imagining yourself as them, or empathizing with others )
+- Language and complex communication.
+
+
+
+

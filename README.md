@@ -31,6 +31,7 @@
 - God Of Gaps: is a theological perspective in which gaps in scientific knowledge are taken to be evidence or proof of God's existence.
 - Noblesse oblige: Based on Schrödinger it means you should not talk about topics that you are not an expert in ( not sure if that's what it means tho! and I'm not an expert in it!! )
 - **Single-event upset**: when high energy particles change a bit in our digital devices ( like the super-mario jump that happened in 2013 or 1979, when Ziegler from IBM and Lanford from Yale for the 1st time described the process and added shielding to ICs, that the same year world’s first heavy ion “single event effects” test at a particle accelerator facility, conducted at Lawrence Berkeley National Laboratory's 88-Inch Cyclotron and Bevatron. or the Quantas airline flight incident )
+- **Goodstein's theorem**: n mathematical logic, Goodstein's theorem is a statement about the natural numbers, proved by Reuben Goodstein in 1944, which states that every Goodstein sequence eventually terminates at 0. Kirby and Paris[1] showed that it is unprovable in Peano arithmetic (but it can be proven in stronger systems, such as second-order arithmetic).
 
 
 

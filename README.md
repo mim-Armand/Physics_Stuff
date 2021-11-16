@@ -38,6 +38,8 @@
 - **Goldbach's conjecture**: One of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even whole number greater than 2 is the sum of two prime numbers.
 - **Penrose Consciousness**: Roger penrose have said that he sees 3 parts in Consciousness: intelligence understanding and awareness.
 - **Equivalence principle**: fundamental law of physics that states that gravitational and inertial forces are of a similar nature and often indistinguishable, originally stated by Galileo. In Einstein’s version, the principle asserts that in free-fall the effect of gravity is totally abolished in all possible experiments and general relativity reduces to special relativity, as in the inertial state.
+- **Energy-Frequency equivalence** Max Planck equation E = hc/λ.
+- **Mass–energy equivalence** Einstein's famous Equasion E = mc^2.
 
 
 

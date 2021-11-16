@@ -21,6 +21,9 @@
 - **Zeeman effect**: The Zeeman effect is the effect of splitting of a spectral line into several components in the presence of a static magnetic field. It is named after the Dutch physicist Pieter Zeeman, who discovered it in 1896 and received a Nobel prize for this discovery.
 - **Stark effect**: The Stark effect is the shifting and splitting of spectral lines of atoms and molecules due to the presence of an external electric field. It is the electric-field analogue of the Zeeman effect.
 - **Objective-collapse theory**: or Objective reduction, Objective-collapse theories, also known as models of spontaneous wave function collapse or dynamical reduction models,[1][2] were formulated as a response to the measurement problem in quantum mechanics,[3] to explain why and how quantum measurements always give definite outcomes, not a superposition of them as predicted by the Schrödinger equation, and more generally how the classical world emerges from quantum theory. The fundamental idea is that the unitary evolution of the wave function describing the state of a quantum system is approximate. It works well for microscopic systems, but progressively loses its validity when the mass / complexity of the system increases.
+- **Equivalence principle**: fundamental law of physics that states that gravitational and inertial forces are of a similar nature and often indistinguishable, originally stated by Galileo. In Einstein’s version, the principle asserts that in free-fall the effect of gravity is totally abolished in all possible experiments and general relativity reduces to special relativity, as in the inertial state.
+- **Energy-Frequency equivalence** Max Planck equation E = hc/λ.
+- **Mass–energy equivalence** Einstein's famous Equasion E = mc^2.
 
 
 
@@ -37,9 +40,8 @@
 - **kernel theorem**: In mathematics, the Schwartz kernel theorem is a foundational result in the theory of generalized functions, published by Laurent Schwartz in 1952. It states, in broad terms, that the generalized functions introduced by Schwartz (Schwartz distributions) have a two-variable theory that includes all reasonable bilinear forms on the space {\displaystyle {\mathcal {D}}}{\mathcal {D}} of test functions. The space {\displaystyle {\mathcal {D}}}{\mathcal {D}} itself consists of smooth functions of compact support.
 - **Goldbach's conjecture**: One of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even whole number greater than 2 is the sum of two prime numbers.
 - **Penrose Consciousness**: Roger penrose have said that he sees 3 parts in Consciousness: intelligence understanding and awareness.
-- **Equivalence principle**: fundamental law of physics that states that gravitational and inertial forces are of a similar nature and often indistinguishable, originally stated by Galileo. In Einstein’s version, the principle asserts that in free-fall the effect of gravity is totally abolished in all possible experiments and general relativity reduces to special relativity, as in the inertial state.
-- **Energy-Frequency equivalence** Max Planck equation E = hc/λ.
-- **Mass–energy equivalence** Einstein's famous Equasion E = mc^2.
+
+- **Occam's razor**: Occam's razor, Ockham's razor, Ocham's razor (Latin: novacula Occami), also known as the principle of parsimony or the law of parsimony (Latin: lex parsimoniae), is the problem-solving principle that "entities should not be multiplied beyond necessity",[1][2] sometimes inaccurately paraphrased as "the simplest explanation is usually the best one.
 
 
 

@@ -37,6 +37,7 @@
 - **kernel theorem**: In mathematics, the Schwartz kernel theorem is a foundational result in the theory of generalized functions, published by Laurent Schwartz in 1952. It states, in broad terms, that the generalized functions introduced by Schwartz (Schwartz distributions) have a two-variable theory that includes all reasonable bilinear forms on the space {\displaystyle {\mathcal {D}}}{\mathcal {D}} of test functions. The space {\displaystyle {\mathcal {D}}}{\mathcal {D}} itself consists of smooth functions of compact support.
 - **Goldbach's conjecture**: One of the oldest and best-known unsolved problems in number theory and all of mathematics. It states that every even whole number greater than 2 is the sum of two prime numbers.
 - **Penrose Consciousness**: Roger penrose have said that he sees 3 parts in Consciousness: intelligence understanding and awareness.
+- **Equivalence principle**: fundamental law of physics that states that gravitational and inertial forces are of a similar nature and often indistinguishable, originally stated by Galileo. In Einstein’s version, the principle asserts that in free-fall the effect of gravity is totally abolished in all possible experiments and general relativity reduces to special relativity, as in the inertial state.
 
 
 
@@ -57,6 +58,21 @@
 - Imagination, visualization of the future.
 - Reading the mind of others ( Undereestanding others and imagining yourself as them, or empathizing with others )
 - Language and complex communication.
+
+## Components of Intelligenece:
+In a nutshell Intelligence is the ability to solve problems.
+- senses
+- memory
+- Learning
+- Library of knowledge:
+  - Associations
+  - Connections
+  - echanical / physics
+- Creativity
+- Using tools
+- Planning
+- Culture
+- Colaboration
 
 
 

@@ -64,6 +64,7 @@
 - **Penrose Consciousness**: Roger penrose have said that he sees 3 parts in Consciousness: intelligence understanding and awareness.
 - **Occam's razor**: Occam's razor, Ockham's razor, Ocham's razor (Latin: novacula Occami), also known as the principle of parsimony or the law of parsimony (Latin: lex parsimoniae), is the problem-solving principle that "entities should not be multiplied beyond necessity",[1][2] sometimes inaccurately paraphrased as "the simplest explanation is usually the best one.
 - **Being Anti Copernican**, hints at the notion that at the time of Copernicus, Galileo's ideas was rejected because one could not feel the earth moving.
+- **Babinet's principle**: the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity. also on the far field, you'll lose twice as much light energy as you'd expect ( absorbed + edge scattered )
 
 
 

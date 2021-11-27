@@ -27,6 +27,10 @@
 - **Copernican principle**: In physical cosmology, the Copernican principle states that humans, on the Earth or in the Solar System, are not privileged observers of the universe. Named for Copernican heliocentrism, it is a working assumption that arises from a modified cosmological extension of Copernicus's argument of a moving Earth.
 - **Anthropic Argument** Anthropic principle, is the principle that there is a restrictive lower bound on how statistically probable our observations of the universe are, given that we could only exist in the particular type of universe capable of developing and sustaining sentient life.
 - **Bloch's theorem**: In condensed matter physics, Bloch's theorem states that solutions to the Schrödinger equation in a periodic potential take the form of a plane wave modulated by a periodic function.
+- **Gauge theory**: a type of field theory in which the Lagrangian (and hence the dynamics of the system itself) does not change (is invariant) under local transformations according to certain smooth families of operations (Lie groups).
+- **Newotonian Formalism**: Finds out and formulates, all the forces, how, when and where a transformation happens. become very complicated for complex motions.
+- **Lagrangian Formalism**: In short: The path that took the least action was taken! does not matter how, and when and where. generalizing and simplifying equasion.
+- **Hamiltonian Formalism**: a formulation of classical mechanics and is founded on the stationary action principle. (shrodinger equasion is Hamiltonian)
 
 
 

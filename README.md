@@ -31,6 +31,13 @@
 - **Newotonian Formalism**: Finds out and formulates, all the forces, how, when and where a transformation happens. become very complicated for complex motions.
 - **Lagrangian Formalism**: In short: The path that took the least action was taken! does not matter how, and when and where. generalizing and simplifying equasion.
 - **Hamiltonian Formalism**: a formulation of classical mechanics and is founded on the stationary action principle. (shrodinger equasion is Hamiltonian)
+- **Beer–Lambert law**: in optics, the empirical relationship of the absorption of light to the properties of the material through which the light is traveling.
+- **Bragg's law**: the angles for coherent and incoherent scattering from a crystal lattice.
+- **Brewster's law**: an angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. Named after Scottish physicist David Brewster.
+- 
+
+
+
 
 
 
@@ -53,6 +60,8 @@
 
 
 
+
+
 # Other ( more philosophical ) notions:
 - God Of Gaps: is a theological perspective in which gaps in scientific knowledge are taken to be evidence or proof of God's existence.
 - Noblesse oblige: Based on Schrödinger it means you should not talk about topics that you are not an expert in ( not sure if that's what it means tho! and I'm not an expert in it!! )
@@ -65,6 +74,10 @@
 - **Occam's razor**: Occam's razor, Ockham's razor, Ocham's razor (Latin: novacula Occami), also known as the principle of parsimony or the law of parsimony (Latin: lex parsimoniae), is the problem-solving principle that "entities should not be multiplied beyond necessity",[1][2] sometimes inaccurately paraphrased as "the simplest explanation is usually the best one.
 - **Being Anti Copernican**, hints at the notion that at the time of Copernicus, Galileo's ideas was rejected because one could not feel the earth moving.
 - **Babinet's principle**: the diffraction pattern from an opaque body is identical to that from a hole of the same size and shape except for the overall forward beam intensity. also on the far field, you'll lose twice as much light energy as you'd expect ( absorbed + edge scattered )
+- **Bayes' theorem**: describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
+- **Benford's law**: `In many collections of data, a given data point has roughly a 30% chance of starting with the digit 1.`
+- **Briffault's law**: `The female, not the male, determines all the conditions of the animal family. Where the female can derive no benefit from association with the male, no such association takes place.`
+- **Buys Ballot's law**: is concerned with the notion that the wind travels counterclockwise around low pressure zones in the Northern Hemisphere.
 
 
 

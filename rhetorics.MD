@@ -10,6 +10,7 @@
 - Analogic
 - Abductive: Inferrance to the best explanation. Drawing a conclusion based on the explanation that best explains a state of events, rather than from evidence provided by the premises.
 - Fallacious
+- [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 
 
 

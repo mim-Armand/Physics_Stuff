@@ -34,7 +34,7 @@
 - **Beer–Lambert law**: in optics, the empirical relationship of the absorption of light to the properties of the material through which the light is traveling.
 - **Bragg's law**: the angles for coherent and incoherent scattering from a crystal lattice.
 - **Brewster's law**: an angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. Named after Scottish physicist David Brewster.
-- 
+- **Eötvös effect**: Because of the rotation of earth, a train ( for instance ) going against the rotation of earth will weight more ( as it feels less centrofugal force ) and vice versa.
 
 
 

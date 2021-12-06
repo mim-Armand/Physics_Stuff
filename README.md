@@ -57,6 +57,11 @@
 - **[more ..](https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics)**
 
 
+#Laws of Thermodynamics:
+0. Zeroth law: If two systems are both in thermal equilibrium with a third system, then they are in thermal equilibrium with each other.
+1. First law: In a closed system, the first law states that the change in internal energy of the system is equal to the difference between the heat supplied to the system and the work done by the system on its surroundings.
+2. Second law: (by Nicolas Léonard Sadi Carnot, French physicist) When two initially isolated systems in separate but nearby regions of space, each in thermodynamic equilibrium with itself but not necessarily with each other, are then allowed to interact, they will eventually reach a mutual thermodynamic equilibrium. The sum of the entropies of the initially isolated systems is less than or equal to the total entropy of the final combination. Equality occurs just when the two original systems have all their respective intensive variables (temperature, pressure) equal; then the final system also has the same values.
+3. Third law: A system's entropy approaches a constant value as its temperature approaches absolute zero.
 
 
 

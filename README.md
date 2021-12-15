@@ -37,6 +37,8 @@
 - **Eötvös effect**: Because of the rotation of earth, a train ( for instance ) going against the rotation of earth will weight more ( as it feels less centrofugal force ) and vice versa.
 - **Elitzur–Vaidman bomb tester**: The Elitzur–Vaidman bomb-tester is a quantum mechanics thought experiment that uses interaction-free measurements to verify that a bomb is functional without having to detonate it. It was conceived in 1993 by Avshalom Elitzur and Lev Vaidman.
 - **Mach–Zehnder interferometer**: a device used to determine the relative phase shift variations between two collimated beams derived by splitting light from a single source. The interferometer has been used, among other things, to measure phase shifts between the two beams caused by a sample or a change in length of one of the paths.
+- **Fermi Paradox**: there should be life elsewhere in the universe, but we haven't found any evidence of it so far.
+- **Dark Forest**: is a soltion to Fermi Paradox that sais that we don't see any evidence because any civilization who presented a sign, caused alien predators to hunt and destroy them, hence only those who are good at hiding remain!
 
 
 

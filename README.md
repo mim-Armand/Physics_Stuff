@@ -40,6 +40,7 @@
 - **Fermi Paradox**: there should be life elsewhere in the universe, but we haven't found any evidence of it so far.
 - **Dark Forest**: is a soltion to Fermi Paradox that sais that we don't see any evidence because any civilization who presented a sign, caused alien predators to hunt and destroy them, hence only those who are good at hiding remain!
 - Region of Potential Simultaneity: a region of space around an event where the seed of causality can not reach, hence the events in this region are neither earlier or later than the main event.
+- Boltzman theory: Boltzman suggested that ina sufficiently large and old universe, there ought to be regions, where time goes backward ( entropy )
 
 
 

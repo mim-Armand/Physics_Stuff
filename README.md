@@ -41,6 +41,8 @@
 - **Dark Forest**: is a soltion to Fermi Paradox that sais that we don't see any evidence because any civilization who presented a sign, caused alien predators to hunt and destroy them, hence only those who are good at hiding remain!
 - Region of Potential Simultaneity: a region of space around an event where the seed of causality can not reach, hence the events in this region are neither earlier or later than the main event.
 - Boltzman theory: Boltzman suggested that ina sufficiently large and old universe, there ought to be regions, where time goes backward ( entropy )
+- **josephson junction**: In Physics, the Josephson effect is a phenomenon that occurs when two superconductors are placed in proximity, with some barrier or restriction between them. where they allow current to flow through the gap on both directions ( due to quantum tunnelling ) without any voltage applied! this is used to create super-position of current and magnetic fields.
+- **S.Q.U.I.D**: Or Superconducting Quantum Interference Device, is an arrangment of **Josephson Junctions** that allows for extremely sensitive measurments of subtle magnetic fields.
 
 
 

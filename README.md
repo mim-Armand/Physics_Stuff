@@ -43,6 +43,7 @@
 - Boltzman theory: Boltzman suggested that ina sufficiently large and old universe, there ought to be regions, where time goes backward ( entropy )
 - **josephson junction**: In Physics, the Josephson effect is a phenomenon that occurs when two superconductors are placed in proximity, with some barrier or restriction between them. where they allow current to flow through the gap on both directions ( due to quantum tunnelling ) without any voltage applied! this is used to create super-position of current and magnetic fields.
 - **S.Q.U.I.D**: Or Superconducting Quantum Interference Device, is an arrangment of **Josephson Junctions** that allows for extremely sensitive measurments of subtle magnetic fields.
+- **SERF**: Or spin exchange relaxation-free (SERF) magnetometer is a type of magnetometer developed at Princeton University in the early 2000s. SERF magnetometers measure magnetic fields by using lasers to detect the interaction between alkali metal atoms in a vapor and the magnetic field. These are potentially more sensitive than SQUIDs and do not require cryogenic refrigeration but are orders of magnitude larger in size (~1 cm3) and must be operated in a near-zero magnetic field.
 
 
 

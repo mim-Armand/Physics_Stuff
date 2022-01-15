@@ -44,6 +44,12 @@
 - **josephson junction**: In Physics, the Josephson effect is a phenomenon that occurs when two superconductors are placed in proximity, with some barrier or restriction between them. where they allow current to flow through the gap on both directions ( due to quantum tunnelling ) without any voltage applied! this is used to create super-position of current and magnetic fields.
 - **S.Q.U.I.D**: Or Superconducting Quantum Interference Device, is an arrangment of **Josephson Junctions** that allows for extremely sensitive measurments of subtle magnetic fields.
 - **SERF**: Or spin exchange relaxation-free (SERF) magnetometer is a type of magnetometer developed at Princeton University in the early 2000s. SERF magnetometers measure magnetic fields by using lasers to detect the interaction between alkali metal atoms in a vapor and the magnetic field. These are potentially more sensitive than SQUIDs and do not require cryogenic refrigeration but are orders of magnitude larger in size (~1 cm3) and must be operated in a near-zero magnetic field.
+- **Penning Trap:** is a device for the storage of charged particles using a homogeneous axial magnetic field and an inhomogeneous quadrupole electric field. this device is specially very useful in storing things that are impossible to contain like Anti-matter which will anihilate when comes in contact with normal matter.
+- **Weak Equivalence Principle:** (WEP) states that all point-like structureless particles fall along the same path within a gravitational field. If general relativity is correct, the WEP holds for all forms of matter and antimatter.
+- **hund principle**: Every subshell in each orbital level is occupied bya single electron before any of them accept the second one.
+- **Wigner crystal:** A gas of electrons moving in 2D or 3D in a uniform, inert, neutralizing background will crystallize and form a lattice if the electron density is less than a critical value.
+- **Magneto-rotons:** are elementary excitations at finite momentum that appear in gases of interacting charged particles placed under a strong magnetic field.
+- **Kelvin–Helmholtz instability:** The Kelvin–Helmholtz instability (after Lord Kelvin and Hermann von Helmholtz) is a fluid instability that occurs when there is velocity shear in a single continuous fluid or a velocity difference across the interface between two fluids. 
 
 
 

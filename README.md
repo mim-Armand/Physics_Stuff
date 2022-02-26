@@ -99,6 +99,7 @@
 - **Benford's law**: `In many collections of data, a given data point has roughly a 30% chance of starting with the digit 1.`
 - **Briffault's law**: `The female, not the male, determines all the conditions of the animal family. Where the female can derive no benefit from association with the male, no such association takes place.`
 - **Buys Ballot's law**: is concerned with the notion that the wind travels counterclockwise around low pressure zones in the Northern Hemisphere.
+- **Gravitational Redshift**: the time ticks at different rates depending on how close to a massive space-time bending object (Like earth) they are
 
 
 

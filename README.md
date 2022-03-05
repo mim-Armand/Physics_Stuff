@@ -52,6 +52,7 @@
 - **Kelvin–Helmholtz instability:** The Kelvin–Helmholtz instability (after Lord Kelvin and Hermann von Helmholtz) is a fluid instability that occurs when there is velocity shear in a single continuous fluid or a velocity difference across the interface between two fluids. 
 - **Mach's principle**: The hypothesis attempted to explain how rotating objects, such as gyroscopes and spinning celestial bodies, maintain a frame of reference. in other words if instead of the rotating object, the whole universe started to rotate around the object, it would feel the same cetrefugal force! This of course could be wrong and is not proven or disproven.
 - **Frame-dragging**: (also called the Lense–Thirring effect for rotational frame-dragging) The effect of the rotation of a massive body on the space-time field around it. This was confirmed at 2011 from the data that was provided by a NASA satelite sent to orbit for this reason. ( for earth it was 0.000011 degree per year ). Qualitatively, frame-dragging can be viewed as the gravitational analog of electromagnetic induction.
+- **van der Waals forces**: relatively weak electric forces that attract neutral molecules to one another in gases, in liquefied and solidified gases, and in almost all organic liquids and solids.
 
 
 

@@ -102,6 +102,7 @@
 - **Buys Ballot's law**: is concerned with the notion that the wind travels counterclockwise around low pressure zones in the Northern Hemisphere.
 - **Gravitational Redshift**: the time ticks at different rates depending on how close to a massive space-time bending object (Like earth) they are
 - **Einstein–de Haas experiment**: the experiment that demonstrate the angular momentum assigned to the electron's spin.
+- **Gedankenexperiments**: german for thought experiment
 
 
 

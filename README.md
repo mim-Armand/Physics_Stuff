@@ -55,6 +55,7 @@
 - **van der Waals forces**: relatively weak electric forces that attract neutral molecules to one another in gases, in liquefied and solidified gases, and in almost all organic liquids and solids.
 - **The spin Hall effect of light (SHEL)**: is the photonic analogue of the spin Hall effect in electronic systems, in which the electron spin and role of an applied electric field are replaced by the polarization of an incident light wave and the refractive index gradient of the sample material, respectively.
 - **Tsirelson's bound**: is an upper limit to quantum mechanical correlations between distant events. Given that quantum mechanics violates Bell inequalities (i.e., it cannot be described by a local hidden-variable theory), a natural question to ask is how large can the violation be. In general, this bound is lower than the bound that would be obtained if more general theories, only constrained by "no-signalling" were considered. ( 85% vs 75% for local hidden vars )
+- **CHSH inequality**: the CHSH inequality can be used in the proof of Bell's theorem, which states that certain consequences of entanglement in quantum mechanics can not be reproduced by local hidden-variable theories. Experimental verification of violation of the inequalities is seen as experimental confirmation that nature cannot be described by local hidden-variables theories. CHSH stands for John Clauser, Michael Horne, Abner Shimony, and Richard Holt, who described it in a much-cited paper published in 1969.
 
 
 
